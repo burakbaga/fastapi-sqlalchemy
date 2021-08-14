@@ -52,3 +52,8 @@ Using fast api and sqlalchemy building a simple api.
     "gpa": 3.5
 }
 
+# Add a Student 
+
+# Update a Student 
+
+# Delete a Student
