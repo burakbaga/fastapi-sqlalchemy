@@ -2,7 +2,7 @@
 Using fast api and sqlalchemy building a simple api.
 
 
-All Student
+ # All Student
 
 [
     {
