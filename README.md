@@ -1,6 +1,6 @@
 # fastapi-sqlalchemy
-Using fast api and sqlalchemy building a simple api.
 
+A simple api where you can list, add,delete, update students using Fast api and sqlachemy...
 
  # All Student
 
